@@ -103,7 +103,7 @@ A Meta Human can only withdraw their vote after the voting period has ended.
 
 - Open your wallet, find the node you voted for in the list of candidates or validators, and click 'Revoke' to withdraw your vote.
 
-![image-20240130105642669](.\images\image-20240130105642669.png)
+![image-20240130105642669](./images/image-20240130105642669.png)
 
 # Candidate/Validator Withdraws Application
 
